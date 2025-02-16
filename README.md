@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @P4C1S
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning CS50x
-- 📫 How to reach me: abelbahati35@gmail.com
+- 📫 How to reach me: shami.a.bahati@gmail.com
 - 😄 Pronouns: He, Him
 
 <!---
